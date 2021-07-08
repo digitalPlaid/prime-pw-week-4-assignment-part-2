@@ -4,4 +4,9 @@ header {
 h2 {
     background: chocolate;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #ffddee;
+}
+h3 {
+    color: maroon;
+    background: cyan;
 }
